@@ -107,16 +107,39 @@ Subject (Doer):
 Object (Done to):    
 
 ### Adjectives
-Selector:    
+
+Adjective items come before the item they modify
+
+Descriptor:    
+Like (This noun):
 With (Having this noun):    
 Doing (verb as adjective):    
-Number/Position,as, in place of:    
-Extra info, Aside:    
-By, By means of:    
-From,because:    
-To:    
 Possessive:    
-with(together):    
+Position, as, in place of:    
+Along with (together):    
+
+### Extra Information
+
+Can come anywhere in a sentence
+
+To:    
+From, Because of:    
+By, By means of:    
+Extra info, Aside, Isolate:    
+
+### Topic
+
+The Topic normally begins a sentence/clause. Lets the listener know what is important about the sentence. May or may not be an item in the sentence.
+
+Topic / Highlight / As for: ,
+
+	   
+	I_ you_ have_ can_
+	As for me, \[I say] you can have \[it]
+
+	   
+	car_ I_ drive_ can_
+	As for cars, you can drive mine.
 
 ### Time markers.
 
@@ -139,13 +162,11 @@ Modifier Particles
 -----------
 Come at the start of a word in the order below :
 
-Topic/Highlight: ,
 What: ,
 This: ,
 That: ,
 Any: ,
 A/one: ,
-Another:    
 Identifier: ,
 All, Every:
 plural: ,
@@ -158,7 +179,8 @@ Color: ,
 Shape: ,
 Time: ,
 Direction: ,
-Size: ,
+Size: ,
+Distance: ,
 doer of (thing): ,
 doer of (person): ,
 not: ,
@@ -172,9 +194,7 @@ Escape (Allows referring to other roots):
 
 ###  Question
 
-
 Question:    
-
 
 ###  goh
 

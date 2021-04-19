@@ -13,7 +13,7 @@ strong{
 
 **  .**
 
-deikoi geshfeebeshdee hinge
+dei_koi geshfeebesh_dee hin_ge    
 One_ married_couple_ exist_ .    
 
 > :[ɾi] (ree):Another    
@@ -35,7 +35,7 @@ One_day_, husband_ _garden_ go_ _vegetable_�
 **,    . **
 
 dei_tsulpiu_mo rishfut_kou vu_kon_dee hontsin_mo ruu_ge. hontan_desh.    
-_fortunate_ garden_ _own_ witch_ see_. Angry_.
+_fortunate_ garden_ _own_ witch_ see_ Angry_ .
 
 > :[ɾɪn] (rin):Will/Intent    
 > :[mɛ] (meh):Spoken quote    
@@ -53,22 +53,28 @@ I_ _revenge_  him_ tell_
 > :[ma] (ma):Spoken question mark    
 >  Turns the whole quote into a verb (Said)
 
+**     .    **
+
+me fe_kou dei_tsa tsin_ta rin_jin_ge. fe_di hinpe_ge ma me_ge    
  you_ 1 child_ I_ _take_. you_ understand_      
-     .    
 
 > :[gi] (gee):From/Because    
 >  : Because he is    
 
-he_ terrified_ agree_ home_ sad_ go_    
-     
+**     **
+
+bi_di dunjan_desgi reshrin_ge tai_dou  tsuu_yii dash_ge
+he_ terrified_ agree_ home_ sad_ii go_    
 
 > :[sɛi] (say): After Completed    
 > times_:After some time    
 >  [ii] (eee): Adjective/Selector    
 > A beautiful baby    
 
-times_ wife_di birth_ beauty_ baby_girl_    
-    
+**    **
+
+viku_shei goshmei_di raitan_ii buumei_ta buu_ge    
+times_ wife_di beauty_ baby_girl_ birth_    
 
 same_day_ witch_ come_ baby_ take_    
     
@@ -76,8 +82,9 @@ same_day_ witch_ come_ baby_ take_
 >  : [ɛɛʃ] (ehsh): As, in place of    
 >  : [əəu] (ooh) : Identifier/Name
 
-tall_ tower_ take_, name_ give_ _Rapunzel_    
-  ,   
+  ,   
+
+tall_ tower_ take_, name_ _Rapunzel_ give_    
 
 > :[tsa]  :There/At that place    
 > :[ɾan] (ran) :With (Adjective)
