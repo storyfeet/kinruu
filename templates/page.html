@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{first .title "KinRuu"}}</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="/display/main.css">
+	{{if .css}}<style>{{.css}}</style>{{/if}}
+</head>
+<body>
+	<h1>{{first .title "KinRuu"}} - {{first .ktitle ""}}</h1>
+	{{$1}}
+</body>
+</html>

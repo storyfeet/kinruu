@@ -1,0 +1,18 @@
+@font-face {
+	font-family:bodylang;
+	src:url(/fonts/body_lang1.ttf);
+}
+*{
+	font-family: bodylang , monospace;
+}
+
+blockquote {
+	font-family: bodylang, arial;
+	background:#bbbbbb;
+	padding:5px;
+}
+
+pre {
+	background:#bbbbbb;
+	padding:10px;
+}
