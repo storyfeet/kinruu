@@ -92,17 +92,17 @@ tall_ tower_ take_, na flowing_ hair_me_ 
 > :[tsa]  :There/At that place    
 > :[ɾan] (ran) :With (Adjective)
 
-**         **
+**  .       **
 
-sa_tsa buu_di soi_ge rairush_ii tsanmei_ta hii_ge beth_ii roi_ii piu_ta kon_ge    
-that_ baby_ grow_ beautiful_ lady_ become_ long_ flowing_ hair_ have_
+sa_tsa buu_di soi_ge. rairush_ii tsanmei_ta hii_ge beth_ii roi_ii piu_ta kon_ge    
+that_ baby_ grow_. beautiful_  long_ flowing_ hair_ lady_ become_
 
 >  [tsɛ] (tseh):Any    
 >  ...  : Any ... time at
 
-**       ,      **
+**       ,      **
 
-hontsin_di tse_go jathhunbuth_ta mashcho_ja tash_gekoi me uu_rupunsel uu_rupunsel fe_kou piu_ta reshhil_ba me_ta ruubeth_ge    
+hontsin_di tse_go jathhunbuth_ta mashcho_ja tash_gekoi me uu_rupunsel uu_rupunsel fe_kou piu_ta reshhil_ba me_ta ruubuth_ge    
 witch_ any_ tower_ enter_ want_  _Rapunzel _rapunzel  you_ hair_ let_down_  call_    
 
 **  ,   **
@@ -117,28 +117,37 @@ that_ witch_ climb_. Rapunzel_ her_ cook_
 dei_hosh_koi tsosh_tsa dashgosh_gei dei_bihoshkethtsindi rai_ge pe_ge. uu_rupunsel_kou rairosh_di raipeth_ge.    
 one_day_ close_ travel_ one_prince_ see_ hear_. _rapunzel_ beauty_ amaze_.
 
+**         **
+
+hontsin_di desh_sei me uu_rupunsel uu_rupunsel fe_kou piu_ta me_ta ruubuth_ge    
 witch_ go_  _Rapunzel _Rapunzel let_down_ you_ hair_  call_    
-         
 
-Rapunzel_ surprise_, interested_ hair_  let_down_    
- ,   
+**  .    **
 
-> Note "cook : " and  "meal : " are almost the same word, Role markers are important.
+uu_rupunsel_di raipash_ii desh. hansen_ii deshgi piu_ta reshhil_ge    
+Rapunzel_ surprise_ . interested_  hair_ let_down_    
 
-Prince_ climb_ Rapunzel_ cook_ delicious_ meal_    
-     
+**     **
 
-Prince_ food_ loved_ times_ return_ eat_.    
-     .
+bihoshkethtsin_di buth_sei uu_rupunsel_di sishchi_ii honmoi_ta honmoi_ge
+Prince_ climb_ Rapunzel_ delicious_ meal_ cook_    
 
-together_ many_meals_ share_.    
-  
+**     **
 
-However_ one_day_ witch_ eat_ come_, rapunzel_   eat_ _hungry_    
-         
+bihoshkethtsin_di moi_ta tunjas_gegi vivi_ku_koi mashmoi_ja ridash_ge    
+Prince_ food_ loved_ many_times_ eat_ return_.    
 
- what_ I_ eat_. you_ what_person_ eat_ 
-   .    
+**         **
 
+dai_mo dei_hosh_koi hontsin_di mashmoi_ja sadash_koi uu_rupunsel_di go sejoi mashmoi_gegi dai_gentash_dan    
+However_ one_day_ witch_ eat_ come_, rapunzel_   eat_ _hungry_    
+
+**   .    **
+
+me kai_ja I_danradi eat_ge.kai_besh_radi eat_ge mege    
+ what_ I_ eat_. you_ what_person_ eat_ 
+
+**    .      **
+
+hontsin_di go bihonkethtsin_di sedash_geta ku_ge. bi_di ruubuth_koi hontsin_di uu_rupunsel_kou piu_ta reshhil_ge.    
 witch_  prince_ come_ wait_. he_ call_ witch_ _Rapunzel_ hair_ let_down_.
-    .   

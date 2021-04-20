@@ -105,6 +105,10 @@ When using  for "is not" the item is preceded with a 
 
 Subject (Doer):    
 Object (Done to):    
+No role :
+
+ can substitute to mark a noun that has no active role in a phrase.
+This is useful for "double marking"
 
 ### Adjectives
 
@@ -200,17 +204,18 @@ Question:
 
 To avoid ambiguity, sometimes it is helpful to add an "inner clause" start marker. This is done with 
 
- 	          
-	I_  today_ you_ swim_ want_    
+ 	          
+	I_  today_ you_ swim_ want_    
 	I want you to swim today.
 
 	         
-	I_ today_  you_ swim_ want_    
+	I_ today_  you_ swim_ want_    
 	Today, I want you to swim.
 
 In the second sentence, "Today" Applies to my desire, not to the swim, the swim can happen at any future time.
 
-a  clause is ended by the first "double marked" word to follow it.
+a  clause is ended by a "double marked" word.
+
 
 ### That which ..
 
@@ -253,3 +258,13 @@ Numbers
 10
 3(10)
 Minus,
+
+Hints / Tips
+------
+###  vs 
+
+ and  mean largely the same thing. Treat the verb as a noun to do.
+
+However  is not double marked, and so does not close a  clause.
+
+ and  have the same effect.

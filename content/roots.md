@@ -92,7 +92,7 @@ strong {
 **: Time at / when** ,    
 **: Possessive** ,
 : Have / Own ,
-: Time ,
+: Time / Moment / Wait,
 
 *: Question* ,
 : Mouth / Entrance ,
