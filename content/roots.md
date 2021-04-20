@@ -119,9 +119,9 @@ strong {
 : Country ,
 : Shape ,
 
-**: Along With** ,
+**: (adj) Along With** ,
 : Eye / see ,
-**: With / That has (Adj)** ,
+**: (adj) Having (with)** ,
 : 9 ,    
 : Fin / Swim ,
 : Mucus ,

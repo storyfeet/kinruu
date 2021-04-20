@@ -45,11 +45,11 @@ In Kiruu, there are 4 Kinds of Root.
 
 ### Word Order
 
-Normally clauses are ended in a verb. All items that belong to a verb come before it, however as the marker defines their role the exact order can be adjusted for emphasis.
+Normally clauses are ended in a verb. All words that belong to a verb come before it, however as the marker defines their role the exact order can be adjusted for emphasis.
 
 ### Double marking
 
-An item can take on multiple roles in a sentence. This is called **"Double marking"**.
+A word can take on multiple roles in a sentence. This is called **"Double marking"**.
 
 	 
 	I_ hit_
@@ -209,6 +209,8 @@ To avoid ambiguity, sometimes it is helpful to add an "inner clause" start marke
 	Today, I want you to swim.
 
 In the second sentence, "Today" Applies to my desire, not to the swim, the swim can happen at any future time.
+
+a  clause is ended by the first "double marked" word to follow it.
 
 ### That which ..
 
