@@ -157,7 +157,16 @@ witch_  prince_ come_ wait_. he_ call_
 bin_go bi_di hish_dou son_gekoi hontsin_di bi_ta hil_dou tenfuu_ge    
 exact_ he_ top_ arrived_ witch_ him_ down_ throw_.
 
-**       **
+**       **
 
-bihonkethtsin_di go pa_kou cho_dou gesh_gegi dairai_yi vi_duu_yi de
-prince_  thorns_ inside_ land_ blind_ _injured_ 
+bihonkethtsin_di go pa_kou cho_dou gesh_gegi dairai_yi viu_duu_yi de    
+prince_  thorns_ inside_ land_ blind_ _injured_ 
+
+>  [vɛn]: during
+
+**  .   **
+
+viu_jiu_ven dai_vin_ii dashge. guntash_yi dendei_yi de
+many_years_ aimless_ walk_. hungry_ alone_.
+
+end_ witch_ die_. that_ Rapunzel_ tower_ escape_

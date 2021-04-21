@@ -148,6 +148,7 @@ Topic / Highlight / As for: ,
 ### Time markers.
 
 before:,
+during:,
 at:,
 after:,
 
@@ -172,14 +173,15 @@ What: ,
 This: ,
 That: ,
 Any: ,
-A/one: ,
+A / one: ,
 Identifier: ,
 All, Every:
 plural: ,
+Many Very: ,
+Only: ,
 Number Fraction:
 Causing: ,
-Same: ,
-Again/another: ,
+Again / another: ,
 Exact: ,
 Color: ,
 Shape: ,

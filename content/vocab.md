@@ -1,6 +1,7 @@
 Vocab 1
 =======
 Agree (Accept): (sky,spine)
+Alone :_
 Angry:
 Amaze: (eye big)
 Backpack:
@@ -18,7 +19,7 @@ Give:
 Help:
 Hit:
 However:_
-Hungry:
+Hungry:_
 Husband:
 Interest:
 Know (Familiar):

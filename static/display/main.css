@@ -6,6 +6,10 @@
 	font-family: bodylang , monospace;
 }
 
+body {
+	background-color:#999999;
+}
+
 blockquote {
 	font-family: bodylang, arial;
 	background:#bbbbbb;
