@@ -83,7 +83,7 @@ Simple: 
 infinitive (purpose):    
 Soft Imperative (request):    
 Hard imperative (Command):    
-Is:    
+Is:    
 Is not:
 
 All other forms can be negated using  before the role
@@ -97,8 +97,8 @@ When using  for "is not" the item is preceded with a 
 	I_ car_ _red_    
 	My car is not red    
 
-	      
-	I_ car_ green_
+	      
+	I_ car_ green_
 	My car is green
 
 ### Nouns
@@ -154,8 +154,10 @@ after:,
 These marker can apply apply to verbs "when I go" "I go" or to time prases.
 Time phrases begin with any of
 
-* number:,  ...
+* number:,  ...    
+	one time
 * Quantities:, , 
+
 * that/this: ,
 
 and end in the time markers.
@@ -232,12 +234,12 @@ This takes two forms
 This joins turns the item that would be \<role 1> in the inner/initial clause, into \<role 2> in the outer/main clause.
 
 	That \[thing] which i see is red.    
-	I_ see_  red_    
-	   
+	I_ see_  red_    
+	   
 
 	That car which I see is red.
-	I_ see_ car_ red_
-	   
+	I_ see_ car_ red_
+	   
 
 
 ###  (Spoken qoutes)

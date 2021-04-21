@@ -25,10 +25,10 @@ strong {
 
 : Leg / Go ,
 : Negative verb ,
-: No / Dont / Not ,
+: No / Don't / Not ,
 : 1 / a ,    
 : Only ,
-: Is ,
+: Is ,
 **: Subject** ,
 : Root / Stand ,    
 : Some ,
@@ -41,7 +41,8 @@ strong {
 : Sky / free / allow ,
 : Wind / play ,
 : 2 ,    
-: Vegetable ,
+: Vegetable
+: Death / Dead
 : Flower / Appreciate ,
 : Field / Square ,
 : Wing / fly
@@ -51,7 +52,7 @@ strong {
 : Bug ,
 **: (verb) Simple** ,    
 **: (adj) doing ** ,
-: Earth / Good ,
+: Earth / Land / Good ,
 : Dirt / Dig ,    
 **: From / of / because** ,
 **: Clause marker / that which** ,
@@ -77,6 +78,7 @@ strong {
 : Moon / Yearn ,    
 : Ice / cold ,
 : Building / build ,
+ :Fist / Hit / collide,
 : 5 ,
 : Claw / Take ,    
 : Year ,
@@ -107,6 +109,8 @@ strong {
 : 7 ,
 : Nose ,
 
+: Thorn / Needle / Prick ,
+: Bad / Evil ,
 : Lightning ,
 : Electricity ,
 : Ear / Hear ,
@@ -127,7 +131,6 @@ strong {
 : Mucus ,
 : Again / Another     ,
 : Spine / Will / Intent ,    
-**: As / Role ** ,
 : Ocean / wide ,
 : Water ,
 : River / flow  ,    
@@ -148,7 +151,7 @@ strong {
 : Doer of (Thing) ,
 : Tail / Follow ,
 : Dog (Four legged hunter) ,    
-: Plural ,
+: Plural / Very,
 : Way / Direction ,
 : 11 ,    
 : Predator / Hunt / Chase ,
@@ -163,6 +166,7 @@ strong {
 **: By means of** ,    
 : Skin / feel / touch ,
 : Heart / emotion ,
+: Petal
 
 : Animal ,
 *: Grammar escape* ,
@@ -175,7 +179,7 @@ strong {
 : Liver / Healing ,
 : Intestine / Pipe ,
 
-: Number / Position ,
+**: Number / Position** ,
 : Light / Bright / Honourable ,
 : Any ,    
 : Number Fraction / Share ,
@@ -186,7 +190,7 @@ strong {
 : Tear / Cry ,
 
 : Ah / Pause ,
-: Ephasis / Topic
+: Ephasis / Topic ,
 **: Adjective Adverb** ,    
 : Parent ,
 : Interjection / Hey ,

@@ -30,12 +30,12 @@ One_day_, husband_ _garden_ go_ _vegetable_�
 > :[mɔ] (moh):Isolate, Extra info    
 > :[kɔu] (kou):Possessive (Garden's owner)
 > :[və] (vuh):Doer of (Person)    
-> :[dɛʃ] (desh):Is,be.    
+> :[dɛ] (de):Is,be.    
 
-**,    . **
+**,    . **
 
-dei_tsul_mo rishfuth_kou vu_kon_dee hontsin_mo ruu_ge. hontan_desh.    
-_fortunate_ garden_ _own_ witch_ see_ Angry_ .
+dei_tsul_mo rishfuth_kou vu_kon_dee hontsin_mo ruu_ge. hontan_de.    
+_fortunate_ garden_ _own_ witch_ see_ Angry_ .
 
 > :[ɾɪn] (rin):Will/Intent    
 > :[mɛ] (meh):Spoken quote    
@@ -59,12 +59,12 @@ me fe_kou dei_tsa tsin_ta rin_jin_ge. fe_di hinpe_ge ma me_ge
  you_ 1 child_ I_ _take_. you_ understand_      
 
 > :[gi] (gee):From/Because    
->  : Because he is    
+>  : Because he is    
 
-**     **
+**     **
 
 bi_di dunjan_desgi reshrin_ge tai_dou  tsuu_yii dash_ge
-he_ terrified_ agree_ home_ sad_ii go_    
+he_ terrified_ agree_ home_ sad_ii go_    
 
 > :[sɛi] (say): After Completed    
 > times_:After some time    
@@ -87,7 +87,7 @@ that_day_ witch_ come_ baby_ take_
 **  ,   **
 
 beth_ii jathhunbuth_dou jin_ge uu_tsa uu_rupunsel_ta souchin_ge    
-tall_ tower_ take_, na flowing_ hair_me_ _Rapunzel_ give_
+tall_ tower_ take_, name_ _Rapunzel_ give_
 
 > :[tsa]  :There/At that place    
 > :[ɾan] (ran) :With (Adjective)
@@ -119,13 +119,13 @@ one_day_ close_ travel_ one_prince_ see_ hear_�
 
 **         **
 
-hontsin_di desh_sei me uu_rupunsel uu_rupunsel fe_kou piu_ta me_ta ruubuth_ge    
+hontsin_di de_sei me uu_rupunsel uu_rupunsel fe_kou piu_ta me_ta ruubuth_ge    
 witch_ go_  _Rapunzel _Rapunzel let_down_ you_ hair_  call_    
 
-**  .    **
+**  .    **
 
-uu_rupunsel_di raipash_ii desh. hansen_ii deshgi piu_ta reshhil_ge    
-Rapunzel_ surprise_ . interested_  hair_ let_down_    
+uu_rupunsel_di raipash_ii de. hansen_ii degi piu_ta reshhil_ge    
+Rapunzel_ surprise_ . interested_  hair_ let_down_    
 
 **     **
 
@@ -151,3 +151,13 @@ me kai_ja I_danradi eat_ge.kai_besh_radi eat_ge mege
 
 hontsin_di go bihonkethtsin_di sedash_geta ku_ge. bi_di ruubuth_koi hontsin_di uu_rupunsel_kou piu_ta reshhil_ge.    
 witch_  prince_ come_ wait_. he_ call_ witch_ _Rapunzel_ hair_ let_down_.
+
+**       **
+
+bin_go bi_di hish_dou son_gekoi hontsin_di bi_ta hil_dou tenfuu_ge    
+exact_ he_ top_ arrived_ witch_ him_ down_ throw_.
+
+**       **
+
+bihonkethtsin_di go pa_kou cho_dou gesh_gegi dairai_yi vi_duu_yi de
+prince_  thorns_ inside_ land_ blind_ _injured_ 
