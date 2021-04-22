@@ -24,10 +24,10 @@ strong {
 : Soul,Person ,    
 *: Male* ,
 : Mammal ,
-: Point / Exact ,    
+*: Point / Exact* ,    
 *: 0* ,    
 : Mountain / Climb / Tall ,
-: Baby ,
+: Baby ,
 
 : Leg / Go ,
 : Negative verb ,
@@ -40,7 +40,7 @@ strong {
 : Some ,    
 **: To** ,    
 : Blood / Sense ,
-: Wound ,
+: Wound ,
 
 : poo ,    
 : you ,
@@ -51,7 +51,7 @@ strong {
 : Death / Dead    
 : Flower / Appreciate ,
 : Field / Square ,
-: Wing / fly
+: Wing / fly
 
 : Breast / supply ,
 : Milk ,
@@ -70,14 +70,15 @@ strong {
 *: 4* ,
 : Bum / sit / ride ,
 : Brain / Mind / Think ,    
-*: Tooth / Bit / Little*    
+*: Bit / Little*
+ : Tooth
 : Become ,
 : Head / top ,
 : Exist ,
 : Foot / bottom / descend ,    
 : Sun / Day ,
 : Fire / Heat ,    
-: Cloud / Dream ,
+: Cloud / Dream ,
 : Shell / Protect ,
 
 **: Infinitive / In order to** ,
@@ -100,6 +101,7 @@ strong {
 : Kidney ,    
 **: Time at / when** ,    
 **: Possessive** ,
+ : Lizard
 : Have / Own ,    
 : Time / Moment / Wait,
 
@@ -113,10 +115,11 @@ strong {
 : Night / Dark ,    
 **: Aside / Isolate** ,
 : Grain / Food ,    
-*: 7* ,
-: Nose ,
+*: 7* ,
+: Nose / smell
 
 : Thorn / Needle / Prick ,
+: Town ,
 : Bad / Evil ,
 : Lightning ,
 : Electricity ,    
@@ -127,8 +130,8 @@ strong {
 : Stone / Work ,    
 *: 8* ,
 : Bone / Knowledge ,    
-: Country ,
-*: Shape* ,
+**: Despite/even though**
+*: Shape* ,
 
 **: (adj) Along With** ,
 : Eye / see ,
@@ -141,22 +144,26 @@ strong {
 : Ocean / wide ,
 : Water ,
 : River / flow  ,    
-: Tongue / Speak ,
+: Tongue / Speak ,
 
 *: That* ,
-: Finger ,    
+
+: Finger , touch    
 *: This* ,
-: Verb Complete / After ,    
+**: Verb Complete / After** ,    
 *: 10* ,
 : Saliva / Taste ,    
 : Grass / Grow ,
 : Tree / Reach / Spread,
+: Forest ,
 *: All / Every* ,
-: Hand / Hold ,    
-: Fish /
+: Hand / Hold ,
+: fat,     
+: Face / Front / Start ,
+: Fish ,
 
 *: Doer of (Thing)* ,
-: Tail / Follow / End,
+: Tail / Follow / End / Finally
 : Dog (Four legged hunter) ,    
 *: Plural / Some* ,
 *: Plural / Many / Very* ,
@@ -173,9 +180,10 @@ strong {
 : Arm / Do ,
 *: 12* ,
 **: By means of** ,    
-: Skin / feel / touch ,
+: Skin / Feel  ,
+: Life / Live ,
 : Heart / emotion ,
-: Petal
+: Petal ,
 
 : Animal ,    
 *: Grammar escape* ,
@@ -196,11 +204,11 @@ strong {
 : Around / Close to / together ,    
 : Back / Carry ,
 : Star / Luck / Fortune,
-: Tear / Cry ,
+: Tear / Cry ,
 
 : Ah / Pause ,    
 : Ephasis / Topic ,    
 **: Adjective Adverb** ,    
 : Parent ,
 : Interjection / Hey ,    
-*: Polite Identifier* ,
+*: Polite Identifier* ,

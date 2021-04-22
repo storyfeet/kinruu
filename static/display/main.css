@@ -1,9 +1,9 @@
 @font-face {
-	font-family:bodylang;
-	src:url(/fonts/body_lang1.ttf);
+	font-family:kinruu;
+	src:url(/fonts/kinruu.ttf);
 }
 *{
-	font-family: bodylang , monospace;
+	font-family: kinruu , monospace;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 blockquote {
-	font-family: bodylang, arial;
+	font-family: kinruu, arial;
 	background:#bbbbbb;
 	padding:5px;
 }

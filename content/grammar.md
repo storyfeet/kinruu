@@ -121,13 +121,15 @@ Doing (verb as adjective):
 Possessive:    
 Position, as, in place of:    
 Along with (together):    
+From / Of :
 
 ### Extra Information
 
 Can come anywhere in a sentence
 
 To:    
-From, Because of:    
+Because of:    
+In Spite of:
 By, By means of:    
 Extra info, Aside, Isolate:    
 

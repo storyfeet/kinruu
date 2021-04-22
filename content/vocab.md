@@ -4,25 +4,29 @@ Agree (Accept): (sky,spine)
 Alone :_
 Angry:
 Amaze: (eye big)
-Backpack:
+Backpack:
 Beauty: (Eye breath) /  (eye flower)
-Body-Lang:
+Body-Lang:
 Car:
 Come:
 Cook:
 Cream:
 Delicious:
 Dog:
+Duty:
 Drive:
 Excuse:
+Feed (Give food):
+Find:
 Give:
-Help:
+Help:
 Hit:
 However:_
 Hungry:_
 Husband:
 Interest:
 Know (Familiar):
+Look After:
 Love :
 Married Couple:
 None,Not One:
@@ -30,16 +34,17 @@ Of course/Obvious:
 Please:
 Prince:
 Remember:
-Revenge:
+Revenge:
+Search:_
 Shop:
-Swim:
-Take:
 Shopkeeper:
 Steal:
-Surprize:
+Surprise:
+Swim:
 Tea: 
+Take (lead):
 Terrified: (blood,ice)
-Throw:
+Throw:
 Travel:
 Tower: (Building,shell,big)
 Understand: (mind,ear)
@@ -48,5 +53,5 @@ Why: (what to do)
 Wife:
 Witch:
 Wonder:
-Word:
+Word:
 Worry:

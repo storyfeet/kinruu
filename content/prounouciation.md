@@ -34,7 +34,7 @@ Vowels are all single sounds
  : ɛ : g[e]t
  : i (Alone) / ɪ (with pair) : b[ee] / b[i]n  
  : ɔ : g[o]t
- : ə : g[u]t
+ : u (Alone) / ə (with pair) : b[oo] / g[u]t
 
 ## Finals
 Finals always follow a vowel, for this example they will follow the '' or 'a'.
@@ -50,8 +50,18 @@ Finals always follow a vowel, for this example they will follow the '' or 'a'
 
 1. Even though the ''/'r' Sound's similar to the ''/'al'. They occur in different places, so there should be no ambiguity.
 
-2. "ui" is never used as my clumsy mouth can't say it correctly for recordings.  is too similar.    
-  and  are all accepted
+2. Double vowels are not allowed.
+
+3. The following diphthongs are not allowed, because they are difficult (for me) to distinguish from similar legal diphthongs.  As a result they have been removed from the font, so romanizations are given.
+
+* dissallowed : (reason)
+* ao : (au)   
+* ea : (ia)
+* eo : (io)
+* eu : (iu)
+* ua : (oa)
+* ui : (oi)
+
 
 3. "ii" Is also never used, instead.
 
